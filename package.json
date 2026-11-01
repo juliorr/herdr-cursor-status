@@ -1,0 +1,14 @@
+{
+  "name": "herdr-cursor-status",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Cursor Agent CLI terminals report their status to Herdr and show in its Agents panel.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
